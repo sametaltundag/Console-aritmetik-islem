@@ -29,6 +29,10 @@ namespace first_console_app
             Console.WriteLine("{0} ve {1} Sayısının Bölümü  : {2}", sayi1, sayi2, bolme);
             Console.ReadKey();
 
+
+            //INSTAGRAM ==>> samet_altundag63
+            //INSTAGRAM ==>> samethecode
+
         }
     }
 }
